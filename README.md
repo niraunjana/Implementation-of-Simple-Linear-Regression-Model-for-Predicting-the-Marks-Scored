@@ -87,15 +87,23 @@ print("RMSE = ",rmse)
 
 ## Output:
 
-![image](https://user-images.githubusercontent.com/119395610/229364495-07eb95b0-a7dc-423c-b784-a5e821f05e3e.png)
-![image](https://user-images.githubusercontent.com/119395610/229364510-ebeb1033-aa53-4efb-ad32-34cc49f65c4a.png)
-![image](https://user-images.githubusercontent.com/119395610/229364521-a2ceadd2-d1f6-4353-91d4-eb0e05243239.png)
-![image](https://user-images.githubusercontent.com/119395610/229364528-3c63a134-0733-46a8-9ad0-0ef3f7c5766e.png)
-![image](https://user-images.githubusercontent.com/119395610/229364536-8f5a929e-1353-4c35-9fda-5516b77c6567.png)
-![image](https://user-images.githubusercontent.com/119395610/229364550-3c668f61-6b50-4a1a-8754-6f9475c595fb.png)
-![image](https://user-images.githubusercontent.com/119395610/229364568-ce538746-1769-45a2-abd1-279cddbf8941.png)
-![image](https://user-images.githubusercontent.com/119395610/229364579-f81830ce-8f3e-45a5-a3ed-ff1aad58ccba.png)
-![image](https://user-images.githubusercontent.com/119395610/229364590-703676f7-b33b-4885-9d64-4771d9411e7a.png)
+![WhatsApp Image 2023-04-02 at 21 55 39](https://user-images.githubusercontent.com/119395610/229366335-9cc7b718-6d6e-4461-bd62-1ba130da19dc.jpg)
+
+![WhatsApp Image 2023-04-02 at 21 56 42](https://user-images.githubusercontent.com/119395610/229366357-7b0526b7-56eb-44cc-b1c4-051c6029b85a.jpg)
+
+![WhatsApp Image 2023-04-02 at 21 57 53](https://user-images.githubusercontent.com/119395610/229366382-c6623bd1-c1d2-45fe-8eed-097e51e4377d.jpg)
+
+![WhatsApp Image 2023-04-02 at 21 59 04](https://user-images.githubusercontent.com/119395610/229366392-1a088fe3-5d91-4be7-b633-a4099d093e27.jpg)
+
+![WhatsApp Image 2023-04-02 at 22 00 06](https://user-images.githubusercontent.com/119395610/229366409-9cd96c06-cc84-4554-a310-314b472c8aa3.jpg)
+
+![WhatsApp Image 2023-04-02 at 22 01 46](https://user-images.githubusercontent.com/119395610/229366427-12194773-8f66-49bc-b0a2-0dda094d4598.jpg)
+
+![WhatsApp Image 2023-04-02 at 22 02 46](https://user-images.githubusercontent.com/119395610/229366450-47119646-2ac7-4952-966a-9f9eca54ec57.jpg)
+
+![WhatsApp Image 2023-04-02 at 22 08 14](https://user-images.githubusercontent.com/119395610/229366507-6c7b4359-8623-4eb1-802f-35cffc84d067.jpg)
+
+![WhatsApp Image 2023-04-02 at 22 04 50](https://user-images.githubusercontent.com/119395610/229366518-c390a13b-a4ea-454a-9212-38b05af440bc.jpg)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
