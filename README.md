@@ -8,10 +8,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+
+1. Import the needed packages.
+2. Assigning hours To X and Scores to Y.
+3. Plot the scatter plot.
+4. Use mse,rmse,mae formmula to find the values.
+
 
 ## Program:
 ```
@@ -85,6 +87,17 @@ print("RMSE = ",rmse)
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://user-images.githubusercontent.com/119395610/229364153-6c063580-2abc-47af-bc4a-0f6d491d42e5.png)
+![image](https://user-images.githubusercontent.com/119395610/229364166-d11da734-aadf-4cbb-be3e-b90311e20fcf.png)
+![image](https://user-images.githubusercontent.com/119395610/229364186-e6ca66c3-cdd2-4171-9f6f-5e4f499d40e0.png)
+![image](https://user-images.githubusercontent.com/119395610/229364204-c7b8fe42-97c6-4158-a251-6acddaebf7fa.png)
+![image](https://user-images.githubusercontent.com/119395610/229364223-166cafb3-6b44-4ad2-a20d-cf41938b160f.png)
+![image](https://user-images.githubusercontent.com/119395610/229364272-bf893e77-1da0-4cda-bddf-d04f5e76eada.png)
+![image](https://user-images.githubusercontent.com/119395610/229364284-fa1a79eb-f160-45cc-990f-249a19312bec.png)
+![image](https://user-images.githubusercontent.com/119395610/229364297-ed3363ee-c87b-4271-b796-83c4b6ee5d30.png)
+![image](https://user-images.githubusercontent.com/119395610/229364320-c0a1f593-85b8-4eaa-a952-1ec80e981ffa.png)
+
+
 
 
 ## Result:
