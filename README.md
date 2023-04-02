@@ -87,18 +87,15 @@ print("RMSE = ",rmse)
 
 ## Output:
 
-![image](https://user-images.githubusercontent.com/119395610/229364153-6c063580-2abc-47af-bc4a-0f6d491d42e5.png)
-![image](https://user-images.githubusercontent.com/119395610/229364440-c3c3dedd-48cc-452f-b27a-34cf6d82daa0.png)
-![image](https://user-images.githubusercontent.com/119395610/229364455-4d9f3fbf-43cf-404c-962c-36d0cfe8a718.png)
-![image](https://user-images.githubusercontent.com/119395610/229364204-c7b8fe42-97c6-4158-a251-6acddaebf7fa.png)
-![image](https://user-images.githubusercontent.com/119395610/229364223-166cafb3-6b44-4ad2-a20d-cf41938b160f.png)
-![image](https://user-images.githubusercontent.com/119395610/229364272-bf893e77-1da0-4cda-bddf-d04f5e76eada.png)
-![image](https://user-images.githubusercontent.com/119395610/229364284-fa1a79eb-f160-45cc-990f-249a19312bec.png)
-![image](https://user-images.githubusercontent.com/119395610/229364297-ed3363ee-c87b-4271-b796-83c4b6ee5d30.png)
-![image](https://user-images.githubusercontent.com/119395610/229364320-c0a1f593-85b8-4eaa-a952-1ec80e981ffa.png)
-
-
-
+![image](https://user-images.githubusercontent.com/119395610/229364495-07eb95b0-a7dc-423c-b784-a5e821f05e3e.png)
+![image](https://user-images.githubusercontent.com/119395610/229364510-ebeb1033-aa53-4efb-ad32-34cc49f65c4a.png)
+![image](https://user-images.githubusercontent.com/119395610/229364521-a2ceadd2-d1f6-4353-91d4-eb0e05243239.png)
+![image](https://user-images.githubusercontent.com/119395610/229364528-3c63a134-0733-46a8-9ad0-0ef3f7c5766e.png)
+![image](https://user-images.githubusercontent.com/119395610/229364536-8f5a929e-1353-4c35-9fda-5516b77c6567.png)
+![image](https://user-images.githubusercontent.com/119395610/229364550-3c668f61-6b50-4a1a-8754-6f9475c595fb.png)
+![image](https://user-images.githubusercontent.com/119395610/229364568-ce538746-1769-45a2-abd1-279cddbf8941.png)
+![image](https://user-images.githubusercontent.com/119395610/229364579-f81830ce-8f3e-45a5-a3ed-ff1aad58ccba.png)
+![image](https://user-images.githubusercontent.com/119395610/229364590-703676f7-b33b-4885-9d64-4771d9411e7a.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
